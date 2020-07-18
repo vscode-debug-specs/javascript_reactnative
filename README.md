@@ -1,9 +1,3 @@
----
-layout: default
-title: How to Debug React Native with VSCode
-permalink: /
----
-
 # How to Debug React Native with VSCode
 
 ## Basic
