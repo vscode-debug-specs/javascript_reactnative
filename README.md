@@ -1,4 +1,4 @@
-# How to Debug React Native with VSCode
+# How to Debug React Native with VS Code
 
 ## Basic
 
